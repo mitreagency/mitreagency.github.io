@@ -16,4 +16,5 @@ body {
     width: 20vw;
     min-width: 240px;
     max-width: 360px;
+    filter: brightness(0) saturate(100%) invert(12.55%);
 }
