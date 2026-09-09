@@ -10,7 +10,8 @@ body {
 
 .logo {
     position: absolute;
-    width: 40vw;
-    min-width: 50%;
+    width: 10vw;
+    min-width: 100px;
+    max-width: 200px;
     margin: auto, auto, auto, auto;
 }
