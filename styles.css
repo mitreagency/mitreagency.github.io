@@ -1,0 +1,16 @@
+body {
+    background-color: #202020;
+}
+
+.logo-container {
+    position: relative;
+    width: 100%;
+    height: 100%;
+}
+
+.logo {
+    position: absolute;
+    width: 40vw;
+    min-width: 50%;
+    margin: auto, auto, auto, auto;
+}
